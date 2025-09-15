@@ -1,3 +1,13 @@
+
+## How to Install and Run the Project
+
+1. ``` git clone git@github.com:sparshrestha/NewsQA-LSTM.git ```
+2. ``` cd NewsQA-LSTM ```
+3. ```python -m venv venv```
+4. ```for windows .\venv\Scripts\activate and for linux source venv/bin/activate```
+5. ```pip install -r requirements.txt```
+6. ```python main.py```
+
 # NewsQA-LSTM
 
 A work-in-progress project to build a **Question Answering system for news articles** using LSTM-based models.  
